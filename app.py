@@ -120,7 +120,8 @@ def reasonSonyaIsAwesome():
             'The Humboldt squid can turn itself blood-red. Because this wavelength of light doesn\'t travel far underwater, ' \
                 'a dark red squid is effectively invisible. :: http://bit.ly/17grqte'
             'The colossal squid is the world\'s largest invertebrate! :: http://bit.ly/1q7SMEP',
-            'Want to celebrate Cephalopods? October 8-12 are known as \"Cephalopod Awareness Days\" :: http://cephalopodday.tumblr.com/about',
+            'Want to celebrate Cephalopods? October 8-12 are \"Cephalopod Awareness Days,\" meant to bring attention to the ' \
+                'diversity, conservation and biology of the world\'s cephalopods. :: http://cephalopodday.tumblr.com/about',
 
             ]
     return choice(reasons)
