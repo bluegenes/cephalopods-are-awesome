@@ -88,7 +88,7 @@ def reasonSonyaIsAwesome():
                 ' that inhabit shallow waters in other parts of the world. From: http://bit.ly/17grqte'
             'Some species of squid can swim at speeds up to 25 miles per hour, as fast as some sharks, but only in short spurts.' \
                 'From: http://bit.ly/17grqte',
-            'The earliest known ancestor of today's squid is Kimberella, a tiny mollusk that looked like a jellyfish and lived ' \
+            'The earliest known ancestor of today\'s squid is Kimberella, a tiny mollusk that looked like a jellyfish and lived ' \
                 'about 555 million years ago. From: http://bit.ly/17grqte',
             'Neuroscientists in training learn the basics of neurosurgery by practicing on Loligo pealei squid. ' \
                 'Their thick axon, thicker than any human nerves, is easier to start with. From: http://bit.ly/17grqte',
@@ -118,7 +118,7 @@ def reasonSonyaIsAwesome():
                 'reach only 30 or 40 pounds in size. This species is smart, and aquarium managers are kept busy creating ' \
                 'puzzles to challenge the octopuses\' brains. From: http://bit.ly/17grqte',
             'The Humboldt squid can turn itself blood-red. Because this wavelength of light doesn\'t travel far underwater, ' \
-                'a dark red squid is effectively invisible. From: http://bit.ly/17grqte',
+                'a dark red squid is effectively invisible. From: http://bit.ly/17grqte'
             ]
     return choice(reasons)
 
