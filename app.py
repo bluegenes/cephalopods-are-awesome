@@ -79,8 +79,8 @@ def sms():
 
 def reasonSonyaIsAwesome():
     reasons = [
-            'Octopuses have eight arms, and squid and cuttlefish have eight arms and two feeding tentacles ' \
-                '(making them decapods). But the nautilus, another type of cephalopod, outnumbers its brethren ' \
+            'Octopuses have eight arms (\"octopods\", and squid and cuttlefish have eight arms and two feeding tentacles ' \
+                '(\"decapods\"). But the nautilus, another type of cephalopod, outnumbers its brethren ' \
                 'in terms of appendages: females have around 50 arms while males manage 90 or so. A single nautilus ' \
                 'arm is less powerful than other cephalopods, but the arms are so numerous they can easily overpower prey.' \
                 ':: http://bit.ly/17grqte',
@@ -114,14 +114,28 @@ def reasonSonyaIsAwesome():
             'Male paper nautiluses, a type of octopus, are about a tenth the size of the females of the species. ' \
                 'The male fertilizes the female by breaking off a special arm, which then swims to the female and ' \
                 'deposits spermatophores into her. :: http://bit.ly/17grqte',
-            'Giant Pacific octopuses can grow up to 400 pounds, though the ones that inhabit aquarium exhibits usually ' \
-                'reach only 30 or 40 pounds in size. This species is smart, and aquarium managers are kept busy creating ' \
-                'puzzles to challenge the octopuses\' brains. :: http://bit.ly/17grqte',
+            'Giant Pacific octopuses can grow up to 400 pounds! ',
+#though the ones that inhabit aquarium exhibits usually ' \
+#                'reach only 30 or 40 pounds in size. This species is smart, and aquarium managers are kept busy creating ' \
+#                'puzzles to challenge the octopuses\' brains. :: http://bit.ly/17grqte',
             'The Humboldt squid can turn itself blood-red. Because this wavelength of light doesn\'t travel far underwater, ' \
                 'a dark red squid is effectively invisible. :: http://bit.ly/17grqte'
             'The colossal squid is the world\'s largest invertebrate! :: http://bit.ly/1q7SMEP',
             'Want to celebrate Cephalopods? October 8-12 are \"Cephalopod Awareness Days,\" meant to bring attention to the ' \
                 'diversity, conservation and biology of the world\'s cephalopods. :: http://cephalopodday.tumblr.com/about',
+            'Squid have three hearts that pump blue blood through their body!',
+            'Squid move through the water head first instead of tail first',
+            'Some species of squid are able to glow in the dark!',
+            'The giant squid has eyeballs that are bigger than your head!',
+            'The giant squid is the largest invertebrate in the world',
+            'Squid are believed to be the fastest invertebrates in the world',
+            'Some squid live more than 13,000 feet below the ocean surface!',
+            'The largest known Colossal Squid weighed more than 1,000 pounds!',
+            'The giant squid is as long as a whale!',
+            'Giant squid can regenerate their tentacles.',
+            'Opalescent squid tend to spawn around the full moon.',
+            'Fishermen use high-powered lights to attract squid to the surface',
+            'Squid are a major source of food for sea lions and seabirds off the California Coast.',
 
             ]
     return choice(reasons)
