@@ -1,18 +1,11 @@
-# Reasons Sonya Is Awesome
+# Reasons Cephalopods are awesome
 
-A web, voice and SMS app delivering random reasons why my friend Sonya is
-awesome.
+A random fact generator.
 
-Delivered for her birthday, January 2012.
+Originally forked from https://github.com/RobSpectre/Reasons-Sonya-Is-Awesome to a different app, then repurposed for this. I guess I had this on heroku, so I don't have the appropriate fork linkage, but those folks deserve all the credit (and blame!?) for the app.
 
 
-## Summary
-
-Happy birthday Sonya!  I cut you some codez.
-
-Text or call (718)285-0684 to use the mobile experience.
-
-## Getting Started
+## Repurposing this code for other projects
 
 Feel free to personalize this project for the special people in your life. 
 
